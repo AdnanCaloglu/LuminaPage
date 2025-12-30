@@ -1,0 +1,8 @@
+{
+  "name": "LuminaPage",
+  "description": "A secure, smart book identification ecosystem connecting physical books to exclusive digital author experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
